@@ -1,0 +1,11 @@
+dependencies:
+- python=3.5
+- numpy=1.14.2
+- scipy=1.0.1
+- scikit-learn=0.19.1
+- skimage=0.14.0
+- pytest=3.6.2
+- pycodestyle=2.4.0
+- matplotlib=2.2.2
+- nb_conda=2.2.1
+- jupyter=1.0.0
